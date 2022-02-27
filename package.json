@@ -1,0 +1,23 @@
+{
+  "name": "train-ticket-checking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohananagavenkat/train-ticket-checking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohananagavenkat/train-ticket-checking/issues"
+  },
+  "homepage": "https://github.com/mohananagavenkat/train-ticket-checking#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
