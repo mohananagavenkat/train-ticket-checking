@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mohananagavenkat/train-ticket-checking#readme",
   "dependencies": {
+    "aws-sdk": "^2.1082.0",
     "axios": "^0.26.0"
   }
 }
